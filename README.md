@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Pre Final-year B.Tech student passionate about building intelligent systems and scalable applications.<br>👨‍💻 Experienced in Deep Learning, Computer Vision, Image Processing and Machine Learning with tools like Tensorflow, U-net, VGG16, SRGAN, Roboflow, YOLO, Mediapipe, OpenCV, and React.<br>🛠️ Led multiple college-level projects and team collaborations.<br>🎯 Currently seeking opportunities to apply my skills in real-world challenges.<br>📬 Let’s connect!
+🚀Final-year B.Tech student passionate about building intelligent systems and scalable applications.<br>👨‍💻 Experienced in Deep Learning, Computer Vision, Image Processing and Machine Learning with tools like Tensorflow, U-net, VGG16, SRGAN, Roboflow, YOLO, Mediapipe, OpenCV, and React.<br>🛠️ Led multiple college-level projects and team collaborations.<br>🎯 Currently seeking opportunities to apply my skills in real-world challenges.<br>📬 Let’s connect!
 
 
 ## 🌐 Socials:
